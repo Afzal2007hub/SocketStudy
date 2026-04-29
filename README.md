@@ -110,7 +110,7 @@ client_socket.close()
 
 ```
 ## OUTPUT:
-# server.py
+### server.py
 <img width="1920" height="1080" alt="Screenshot 2026-04-29 104149" src="https://github.com/user-attachments/assets/4e4d20c9-7081-4fe1-b8cb-48af9cf4ffb2" />
 
 
