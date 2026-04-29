@@ -114,7 +114,7 @@ client_socket.close()
 <img width="1920" height="1080" alt="Screenshot 2026-04-29 104149" src="https://github.com/user-attachments/assets/4e4d20c9-7081-4fe1-b8cb-48af9cf4ffb2" />
 
 
-# client.py
+### client.py
 <img width="1920" height="1080" alt="Screenshot 2026-04-29 104228" src="https://github.com/user-attachments/assets/2f265e4a-fc20-4272-a45e-43ddedd4adf7" />
 
 
